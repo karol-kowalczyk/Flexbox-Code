@@ -1,9 +1,9 @@
 **Flexbox-Code**
  **Flexbox Demo – README**
 
-Willkommen! 🎉 Dieses kleine Projekt begleitet mein YouTube-Erklärungsvideo zu **CSS Flexbox**.
+Willkommen! 🎉 Dieses kleine Projekt begleitet mein YouTube-Erklärungsvideo zu CSS Flexbox.
 
-**Du darfst den Code gerne 1:1 kopieren, verändern und damit experimentieren**
+Du darfst den Code gerne 1:1 kopieren, verändern und damit experimentieren
 Werte anpassen, weitere Elemente hinzufügen, Layouts umbauen, alles erlaubt. Viel Spaß beim Ausprobieren!
 
 ---
